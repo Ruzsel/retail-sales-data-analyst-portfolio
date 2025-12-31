@@ -23,6 +23,7 @@ The analysis aims to support data-driven decision-making for business and manage
 - Retail transaction data (invoice-level)
 - Period: December 2010 – December 2011
 - Data includes transactions, customers, products, and countries
+- https://www.kaggle.com/datasets/carrie1/ecommerce-data
 
 ---
 
