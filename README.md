@@ -1,5 +1,3 @@
-# retail-sales-data-analyst-portfolio
-
 # Retail Sales Data Analyst Portfolio
 
 ## Overview
