@@ -88,7 +88,7 @@ Features include:
 - Trend and contribution analysis
 - Customer cohort and retention insights
 
-Dashboard screenshots are available in the `/dashboard` folder.
+Dashboard and screenshots are available in the `/dashboard` folder.
 
 ---
 
