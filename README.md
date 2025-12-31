@@ -1,5 +1,5 @@
 # Retail Sales Data Analyst Portfolio
-
+Built an end-to-end retail sales analytics project using PostgreSQL and Power BI, including data cleaning, deduplication with window functions, star schema modeling, and customer cohort analysis.
 ## Overview
 This project demonstrates an end-to-end data analytics workflow using PostgreSQL and Power BI.
 The objective is to analyze retail sales performance and provide business insights through proper data preparation, modeling, and visualization.
